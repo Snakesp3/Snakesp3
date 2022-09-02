@@ -1,4 +1,4 @@
-### Hola 👋, World! My name is Sebastian 
+### Hello World!👋, My name is Sebastian 
 #### Student FullStack
 ![Student FullStack](https://github.com/Snakesp3/Guia-7-Poo/blob/main/BannerSeba.png)
 
