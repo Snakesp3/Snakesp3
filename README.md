@@ -1,8 +1,6 @@
-
-### Hola World!👋 My name is Sebastian 
+### Hola 👋, World! My name is Sebastian 
 #### Student FullStack
-
-
+![Student FullStack](https://github.com/Snakesp3/Guia-7-Poo/blob/main/BannerSeba.png)
 
 I am a person open to new challenges. I am motivated to learn new things and I adapt to changes easily. I really like to participate and I seek to contribute by adding value to the tasks I perform. I have had different experiences in recent years, and I consider that they have enriched me both professionally and personally. Today I would like to take a new leap that allows me to continue growing while I get closer to my goals.
 
@@ -24,9 +22,7 @@ Habilidades: JAVA / GIT / MYSQL / JDBC / FRONTEND /
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snakesp3)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Snakesp3&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Snakesp3)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Snakesp3&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Snakesp3)  
 
